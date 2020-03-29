@@ -10,3 +10,8 @@
   <li>Expo</li>
 </ul>
 
+
+<p align="center">
+ <img src="https://github.com/Djaysson/Devradar/blob/master/mobile/assets/appImg.jpg">
+</p>
+
