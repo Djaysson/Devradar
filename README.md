@@ -7,7 +7,6 @@
   <li>Node.js</li>
   <li>React</li>
   <li>React Native</li>
-  <li>Expo</li>
 </ul>
 
 
